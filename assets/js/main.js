@@ -23,24 +23,24 @@ function blog_posts() {
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
         {
-            url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
-            title: 'Trek To Bramhatal (Uttarakhand)',
+            url: 'https://www.naver.com',
+            title: '네이버',
         },
         {
-            url: 'https://www.nagekar.com/2017/08/privacy.html',
-            title: 'Privacy - How I Converted',
+            url: 'https://www.yahoo.co.kr',
+            title: '야후',
         },
         {
-            url: 'https://www.nagekar.com/2018/01/jagriti-yatra.html',
-            title: 'Jagriti Yatra 2017',
+            url: 'https://www.daum.net',
+            title: '다음',
         },
         {
-            url: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
-            title: 'Private Cloud Part 2 | Encrypted Storage With NextCloud',
+            url: 'https://www.google.com',
+            title: '구글',
         },
         {
-            url: 'https://www.nagekar.com/2018/07/eli5-how-https-works.html',
-            title: 'ELI5 - How HTTPS Works',
+            url: 'https://www.empas.com',
+            title: '엠파스',
         },
     ];
 
