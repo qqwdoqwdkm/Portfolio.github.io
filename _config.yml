@@ -1,6 +1,6 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: 배승주
+description: 자바 백 엔드 개발자
+site_title: '@abhn - 배승주'
 
 # Build settings
 markdown: kramdown
@@ -8,8 +8,8 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
+blog_url: https://www.naver.com
+email: qotmdwn3436@naver.com
 keybase_username: abhn
 twitter_username: abhn_
 reddit_username: abhn
